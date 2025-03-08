@@ -1,8 +1,9 @@
-# 💫 About Me:
-<p>
-Web Developer | Tech Enthusiast <br>
-Passionate about building web solutions.
-</p>
+# 👋 Hi, I'm Abhay!
+👨🏻‍💻 Computer Engineering Student with a passion for web development
+🎓 Studying at Nutan Maharashtra Institute of Engineering and Technology, Pune
+⚡ Enthusiastic about building intuitive and efficient applications
+⛰️ Trekking, fitness, and design keep me inspired
+💭 Always exploring new ideas and tech innovations!
 
 
 ## 🌐 Socials:
