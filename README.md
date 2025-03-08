@@ -1,6 +1,8 @@
 # 💫 About Me:
-Web Developer | Tech Enthusiast 
+<p>
+Web Developer | Tech Enthusiast <br>
 Passionate about building web solutions.
+</p>
 
 
 ## 🌐 Socials:
