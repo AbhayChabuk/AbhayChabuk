@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Abhay!
-👨🏻‍💻 Computer Engineering Student with a passion for web development
-🎓 Studying at Nutan Maharashtra Institute of Engineering and Technology, Pune
-⚡ Enthusiastic about building intuitive and efficient applications
-⛰️ Trekking, fitness, and design keep me inspired
+<p>
+👨🏻‍💻 Computer Engineering Student with a passion for web development <br>
+🎓 Studying at Nutan Maharashtra Institute of Engineering and Technology, Pune <br>
+⚡ Enthusiastic about building intuitive and efficient applications <br>
+⛰️ Trekking, fitness, and design keep me inspired <br>
 💭 Always exploring new ideas and tech innovations!
-
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_abhay._.96k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhaychabuk) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abhaychabuk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chabukabhay@gmail.com) 
