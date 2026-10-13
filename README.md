@@ -197,18 +197,6 @@ I believe in learning by building, troubleshooting, and documenting—not just c
 
 ---
 
-## Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhayChabuk/AbhayChabuk/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhayChabuk/AbhayChabuk/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/AbhayChabuk/AbhayChabuk/output/pacman-contribution-graph.svg" width="100%"/>
-  </picture>
-</p>
-
----
-
 ## Connect
 
 <p>
